@@ -11,9 +11,9 @@
 ![Untitled252_20251212132540](https://github.com/user-attachments/assets/88d2b50c-0f49-4bdd-be75-092f9aa7bd91)
 <img width="99" height="56" alt="Untitled254_20251212133839" src="https://github.com/user-attachments/assets/1f4261dd-8947-4d1f-b38c-c36bb3e33c06" />
 <img width="99" height="56" alt="Untitled254_20251212134022" src="https://github.com/user-attachments/assets/d1525767-c473-4e80-89e2-26910c305109" />
+</p><img width="99" height="56" alt="Untitled253_20251212132603" src="https://github.com/user-attachments/assets/3edffeab-68b2-4514-87df-87a5e37d1c64" />
+<img width="99" height="56" alt="Untitled253_20251212132953" src="https://github.com/user-attachments/assets/cbc405a7-a66a-4d2e-b9bc-c10188b656ce" />
 
- 
-</p>
 
 <p align="center">
   <i>"May your days be gentle, warm, and softly lit like sun on wool."</i>
@@ -21,21 +21,18 @@
 
 <p align="center">✧･ﾟ: *✧･ﾟ:* ✿ *:･ﾟ✧*:･ﾟ✧</p>
 
+<table align="center">
+  <tr>
+    <td>
 
----
+🌸 **Name:** (your name)  
+🍞 **Pronouns:** (your pronouns)  
+🐑 **Hobbies:** drawing, journaling, cozy games, warm drinks  
+🍯 **Fun Fact:** I collect cute sheep & lamb memorabilia ✨  
 
-<div align="center" style="
-  background:#fffaf6;
-  border: 2px dashed #d8bda8;
-  padding: 20px;
-  width: 70%;
-  border-radius: 15px;
-">
-  <p>🌸 <b>Name:</b> (your name)</p>
-  <p>🍞 <b>Pronouns:</b> (your pronouns)</p>
-  <p>🐑 <b>Hobbies:</b> drawing, journaling, cozy games, warm drinks, learning new crafts</p>
-  <p>🍯 <b>Fun Fact:</b> I collect cute sheep and lamb memorabilia ✨</p>
-</div>
+ 
+  </tr>
+</table>
 
 
 
@@ -50,8 +47,6 @@
     <img src="https://img.shields.io/badge/🐚%20Rentry-ded2c4?style=for-the-badge&labelColor=f7f1ea&color=cbb9a3">
   </a>
 </p>
-
----
 
 <p align="center">❀──────────────────────────❀</p>
 

@@ -1,4 +1,7 @@
 <p align="center">
+
+![sheep badge](https://img.shields.io/badge/%F0%9F%90%91%20flock-100-d9c7b2)
+  
   <img width="99" height="56" alt="IMG_5825" src="https://github.com/user-attachments/assets/90364bb4-ddea-4639-afbf-c96a4d5b9b2a" />
 <img width="100" height="56" alt="tumblr-0c3eff7adf777890cee27ac70bbfaaf5-45f06a25-100" src="https://github.com/user-attachments/assets/dd475301-3162-4a6f-bb3e-95e62cd4ffce" />
 <img width="97" height="54" alt="tumblr-7abe3560bf91784f0b1f423d3b3e05b2-561756b0-100" src="https://github.com/user-attachments/assets/f00b827b-53b5-4a0f-901c-f91add3f2ceb" />

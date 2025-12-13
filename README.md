@@ -7,7 +7,6 @@
 
 ![Untitled250_20251212125813](https://github.com/user-attachments/assets/381577f4-a15a-4766-a07d-00fcb6a164a2)
 <img width="95" height="58" alt="Untitled250_20251212130814" src="https://github.com/user-attachments/assets/32346299-f4f8-4248-83b8-d50631bdaf57" />
-<img width="99" height="58" alt="Untitled252_20251212130410" src="https://github.com/user-attachments/assets/4dc48723-4d4d-4d9f-91e9-20d53ccbcf8e" />
 ![Untitled252_20251212132540](https://github.com/user-attachments/assets/88d2b50c-0f49-4bdd-be75-092f9aa7bd91)
 <img width="99" height="56" alt="Untitled254_20251212133839" src="https://github.com/user-attachments/assets/1f4261dd-8947-4d1f-b38c-c36bb3e33c06" />
 <img width="99" height="56" alt="Untitled254_20251212134022" src="https://github.com/user-attachments/assets/d1525767-c473-4e80-89e2-26910c305109" />

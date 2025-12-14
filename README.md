@@ -13,27 +13,11 @@
 <img width="105" height="61" alt="Untitled256" src="https://github.com/user-attachments/assets/6d60605e-00f4-47a6-925d-97a5a4f14985" />
 <img width="100" height="56" alt="Untitled257_20251212160623" src="https://github.com/user-attachments/assets/4253ff4e-bf53-4fd9-bf22-223a36da4dbb" />
 
-
-<p align="center">
-  <i>"May your days be gentle, warm, and softly lit like sun on wool."</i>
-</p>
-
 <p align="center">✧･ﾟ: *✧･ﾟ:* ✿ *:･ﾟ✧*:･ﾟ✧</p>
 
 <table align="center">
   <tr>
     <td>
-
-🌸 **Name:** (your name)  
-🍞 **Pronouns:** (your pronouns)  
-🐑 **Hobbies:** drawing, journaling, cozy games, warm drinks  
-🍯 **Fun Fact:** I collect cute sheep & lamb memorabilia ✨  
-
- 
-  </tr>
-</table>
-
-
 
 <p align="center">
   <a href="your-link">
@@ -46,6 +30,12 @@
     <img src="https://img.shields.io/badge/🐚%20Rentry-ded2c4?style=for-the-badge&labelColor=f7f1ea&color=cbb9a3">
   </a>
 </p>
+
+ 
+  </tr>
+</table>
+
+
 
 <p align="center">❀──────────────────────────❀</p>
 

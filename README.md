@@ -2,9 +2,6 @@
 
 <p align="center">
 
-![deer flock cream](https://img.shields.io/badge/%F0%9F%A6%8C-flock-f7f1ea?style=for-the-badge&labelColor=f7f1ea)
-![deer herd cream](https://img.shields.io/badge/%F0%9F%A6%8C-herd-f7f1ea?style=for-the-badge&labelColor=f7f1ea)
-
 ![Untitled250_20251212125813](https://github.com/user-attachments/assets/381577f4-a15a-4766-a07d-00fcb6a164a2)
 <img width="95" height="58" alt="Untitled250_20251212130814" src="https://github.com/user-attachments/assets/32346299-f4f8-4248-83b8-d50631bdaf57" />
 ![Untitled252_20251212132540](https://github.com/user-attachments/assets/88d2b50c-0f49-4bdd-be75-092f9aa7bd91)

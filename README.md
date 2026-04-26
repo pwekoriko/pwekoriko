@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-
+<font color="red">This text is red!</font>
 
 <p align="center">❀──────────────────────────❀</p>
 
